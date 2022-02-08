@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	 <title>Upload de fichier</title>
+	 </head>
+<body>
+<h1>Upload File with PHP</h1>
+     <form method="POST" action="upload.php" enctype="multipart/form-data">
+     <!-- On limite le fichier à 100Ko -->
+     <input type="hidden" name="MAX_FILE_SIZE" value="1000000">
+     Fichier : <input type="file" name="avatar"><br><br>
+     <input type="submit" name="envoyer" value="Envoyer le fichier">
+	 <input type="reset" name="Annuler"  value="Annuler"><br>
+</form>
+</body>
+</html>
