@@ -1,4 +1,4 @@
-# Upload-with-PHP
+# Upload with PHP and other method.
 
 PHP script for upload files
 
