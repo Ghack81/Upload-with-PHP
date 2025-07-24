@@ -1,13 +1,26 @@
-# Upload with PHP and other method.
+## 📁 SafeDrop — Secure File Upload System in PHP
 
-PHP script for upload files
+SafeDrop is an open source project for uploading files through a modern interface, with authentication, server protection and antivirus scanning. It's designed to be easy to deploy, educational, and ready for community sharing.
 
-## Some test in PHP for Upload files
+🔒 Security Features:
+- Antivirus scan (ClamAV)
+- Protected storage folder
+- MIME/extension/size filtering
+- Automatic logging
 
-We have some project for tisting upload in php with a fom in HTML 5, CSS 3 and validation, Front-End in JavaScript.
+💡 Technologies:
+- Bootstrap 5, PHP, JavaScript
+- Sessions, AJAX, .htaccess
 
-## Security
+📂 Interface:
+- Elegant upload form
+- Real-time progress bar
+- Dashboard of uploaded files
+- Simple login system
 
-How to add a security layer for file upload to the server.
-Several methods will be proposed.
+🎓 Perfect for:
+- Web security students
+- PHP developers
+- Teachers & classrooms
+- Open-source contributors
 
